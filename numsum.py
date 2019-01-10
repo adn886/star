@@ -13,4 +13,5 @@ while(x!=0):
    
    k=k+b
    x=q
+
 print(" sum= {} ".format(k))
